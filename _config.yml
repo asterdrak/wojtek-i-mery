@@ -16,7 +16,7 @@
 title: Wojtek & Mery
 email: asterdrak@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Strona dotycząca ślubu Marii Koźbiał z Wojciechem Zakrzewskim. Life is hard and full of zasadzkas.
+  Strona dotycząca ślubu Marii Koźbiał z Wojciechem Zakrzewskim.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wojtekimery.pl" # the base hostname & protocol for your site
 github_username:    asterdrak
